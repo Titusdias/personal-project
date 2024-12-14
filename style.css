@@ -313,6 +313,13 @@ body {
 
     position: absolute;
   }
+   .logo {
+    margin-bottom: 10px;
+  }
+  .navbar a {
+    width: 100px;
+    justify-content: space-evenly;
+  }
 }
 @media (min-width: 769px) {
   .menu {
