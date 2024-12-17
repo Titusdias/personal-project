@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     new Typed("#typed-text", {
         strings: [
-            " Hyy Im a Web Developer",
+            " Hi, Im a Web Developer",
         ], // Text strings to display
         typeSpeed: 50, // Typing speed in milliseconds
         backSpeed: 30, // Backspacing speed
